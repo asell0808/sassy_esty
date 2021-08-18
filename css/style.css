@@ -1,0 +1,65 @@
+body{
+    margin: 0px auto;
+    width: 100%;
+}
+/* Header Top Bar */
+.container-fluid {
+    text-align: center!important;
+}
+.header{
+    background-color: #fff1e6;
+    color: rgb(78, 78, 78);
+}
+.header h1, h3{
+    margin: .5rem!important;
+}
+.bottomH1{
+    padding-bottom: 1.5rem;
+}
+/* End Header Top Bar */
+
+/* Nav Bar */
+.nav-item{
+    font-size: 1.2rem!important;
+}
+.navBar{
+    background-color:#6b705c;
+}
+.navBar a{
+    color:white!important;
+}
+/* End Nav Bar */
+
+/* Main Page */
+
+/* Three Row Service Section */
+.serviceWide{
+    background-color: cadetblue;
+    height: 400px;
+}
+.serviceNarrow{
+    background-color: rgb(78, 78, 78);
+    height: 400px;
+}
+
+/* End Three Row Service Section */
+		
+/* Start Portfolio */
+
+/* End Portfolio */
+
+/* Start About */
+
+/* End About */
+
+/* Start Book a Session Form */
+
+/* End Book a Session Form */
+
+/* Start Pricing */
+
+/* End Pricing */
+
+/* Start Socket */
+
+/* End Socket */
